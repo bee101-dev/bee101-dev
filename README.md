@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bee101-dev
+- 👋 Hi, I’m @bee_style
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 
